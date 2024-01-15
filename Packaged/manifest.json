@@ -1,0 +1,7 @@
+{
+    "name": "ScanGrenade",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/unfoundbug",
+    "description": "Auto-scans nearby pre-fabs if you have the thing you are scanning unlocked.",
+    "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
+}
